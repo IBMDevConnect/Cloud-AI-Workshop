@@ -23,9 +23,8 @@
 
 1. Sign up for IBM Cloud Account - [https://ibm.biz/BdZfzb](https://ibm.biz/BdZfzb)
 
-  Select "USA" from Country drop-down to point your account to US region.
-
-  If you have an existing IBM Cloud Account, you may use that for the workshop.
+  Select "USA" from Country drop-down to point your account to US region. If you have an existing IBM Cloud Account, you may    
+  use that for the workshop.
 
 2. Install IBM Cloud Command Line Interface (CLI) - https://console.bluemix.net/docs/home/tools
 
@@ -61,7 +60,7 @@ From your Terminal / Powershell, type the below commands:
 
 3. **Note:**
   
-  Cloud Foundry Organisation = your IBM Cloud login / email id
+  Cloud Foundry Organisation = your IBM Cloud login / email id  
   Cloud Foundry Space = dev
 
 4. Connect to your Cloud Foundry Organisation and Space
