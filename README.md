@@ -1,41 +1,50 @@
-# IBM Developer Day-Artificial Intelligence-Hyderabad- Resources
+# IBM Cloud technical workshop
 
 ## Agenda
 
-09:45 - 10:00	- OPENING SESSION: IBM Developer Way
+09:45 - 10:00 : IBM Developer Way (Opening Talk) - Raghavendra Deshpande
 
-10:00 - 10:30	- TECH TALK: Introduction to IBM Watson & API's
+10:00 - 11:00 : Introduction to IBM Cloud & Watson (Tech Talk) - Rajesh Gudikoti
 
-10:30 - 11:00 - DEMO: A Virtual Shopping Assistant 
+11:00 - 11:15 : Coffee / Tea break
 
-11:00 - 12:30	- WORKSHOP: Build Watson powered conversational bots
+11:15 - 12:45 : How to deploy your app on IBM Cloud using browser and CLI ? (Hands-on Workshop) - Sudharshan Govindan
 
-12:30 - 13:00 - LUNCH
+12:45 - 13:45 : Lunch break
 
-13:00 - 14:00 - TECH TALK & DEMO: Teach Watson to see
+13:45 - 15:15 : Analyze an image and send a status alert (Hands-on Workshop) - Krishna, Raghavendra Deshpande
 
-14:00 - 15:30 - WORKSHOP: Perform intelligent searches on data 
+15:15 - 15:30 : Coffee / Tea break
 
-15:30 - 16:00 - CLOSING NOTE
+15:30 - 16:30 : Serverless - what it is and what it is not ? (Tech Talk) - Sudharshan Govindan
+
 
 ## Pre-Requisites
 
-1. Sign up for IBM Cloud Account before the workshop - [https://ibm.biz/BdZfzn](https://ibm.biz/BdZGT2). If you have an existing IBM Cloud Account from your organisation, you may use that for the workshop.
-2. Sign up for a free IBM Coder account - [https://ibmcoders.influitive.com/](https://ibmcoders.influitive.com/)
-3. Signup for a free GitHub account, if not already done  - [https://github.com/](https://github.com/)
-4. Install a Git command line or GUI client - [https://git-scm.com/downloads/](https://git-scm.com/downloads/)
-5. Download & install Node.JS- [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
-6. Install cURL- [https://curl.haxx.se/download.html](https://curl.haxx.se/download.html)
+1. Sign up for IBM Cloud Account - [https://ibm.biz/BdZfzb](https://ibm.biz/BdZfzb). Select "USA" from Country drop-down to point your account to US region.
 
-## Code Patterns
+If you have an existing IBM Cloud Account, you may use that for the workshop.
 
-[https://developer.ibm.com/code/patterns/create-cognitive-banking-chatbot/](https://developer.ibm.com/code/patterns/create-cognitive-banking-chatbot/)
+2. Install IBM Cloud Command Line Interface (CLI) - https://console.bluemix.net/docs/home/tools
 
-[https://developer.ibm.com/code/patterns/create-an-app-to-perform-intelligent-searches-on-data/](https://developer.ibm.com/code/patterns/create-an-app-to-perform-intelligent-searches-on-data/)
+OR
 
-[https://developer.ibm.com/code/patterns/deploy-a-core-ml-model-with-watson-visual-recognition/](https://developer.ibm.com/code/patterns/deploy-a-core-ml-model-with-watson-visual-recognition/)
+Install stand-alone IBM Cloud CLI - https://console.bluemix.net/docs/cli/reference/bluemix_cli/download_cli.html#install_use
 
-[https://developer.ibm.com/code/patterns/create-a-web-app-to-get-stock-information-prices-and-sentiment/](https://developer.ibm.com/code/patterns/create-a-web-app-to-get-stock-information-prices-and-sentiment/)
+Verify the CLI install
+
+`ibmcloud dev help`
+
+3. Sign up for a free IBM Coder account - [https://ibmcoders.influitive.com/](https://ibmcoders.influitive.com/)
+
+4. Signup for a free GitHub account, if not already done  - [https://github.com/](https://github.com/)
+
+5. Install a Git command line or GUI client - [https://git-scm.com/downloads/](https://git-scm.com/downloads/)
+
+6. Download & install Node.JS - [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+
+7. Install CURL - [https://curl.haxx.se/download.html](https://curl.haxx.se/download.html)
+
 
 ## Feedback
 
