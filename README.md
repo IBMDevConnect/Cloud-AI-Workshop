@@ -21,19 +21,21 @@
 
 ## Pre-Requisites
 
-1. Sign up for IBM Cloud Account - [https://ibm.biz/BdZfzb](https://ibm.biz/BdZfzb). Select "USA" from Country drop-down to point your account to US region.
+1. Sign up for IBM Cloud Account - [https://ibm.biz/BdZfzb](https://ibm.biz/BdZfzb)
 
-If you have an existing IBM Cloud Account, you may use that for the workshop.
+  Select "USA" from Country drop-down to point your account to US region.
+
+  If you have an existing IBM Cloud Account, you may use that for the workshop.
 
 2. Install IBM Cloud Command Line Interface (CLI) - https://console.bluemix.net/docs/home/tools
 
-OR
+    (OR)
 
-Install stand-alone IBM Cloud CLI - https://console.bluemix.net/docs/cli/reference/bluemix_cli/download_cli.html#install_use
+   Install stand-alone IBM Cloud CLI - https://console.bluemix.net/docs/cli/reference/bluemix_cli/download_cli.html#install_use
 
-Verify the CLI install
+   Verify the CLI install
 
-`ibmcloud dev help`
+   `ibmcloud dev help`
 
 3. Sign up for a free IBM Coder account - [https://ibmcoders.influitive.com/](https://ibmcoders.influitive.com/)
 
@@ -45,6 +47,38 @@ Verify the CLI install
 
 7. Install CURL - [https://curl.haxx.se/download.html](https://curl.haxx.se/download.html)
 
+## Configure your environment
+
+From your Terminal / Powershell, type the below commands:
+
+1. To point to US region
+
+  `ibmcloud api https://api.ng.bluemix.net`
+
+2. Login to IBM Cloud
+
+  `ibmcloud login`
+
+3. **Note:**
+  
+  Cloud Foundry Organisation = your IBM Cloud login / email id
+  Cloud Foundry Space = dev
+
+4. Connect to your Cloud Foundry Organisation and Space
+
+  `ibmcloud target -o <value> -s <value>`
+  
+    (OR)
+  
+  `ibmcloud target --cf`
+
+## Hands-on Workshop
+
+* Follow the steps given in 
+
+https://console.bluemix.net/docs/runtimes/nodejs/getting-started.html#getting-started-with-node-js-on-bluemix
+
+* Github repo - https://github.com/IBM-Cloud/get-started-node
 
 ## Feedback
 
