@@ -23,8 +23,7 @@
 
 1. Sign up for IBM Cloud Account - [https://ibm.biz/BdZfzb](https://ibm.biz/BdZfzb)
 
-  Select "USA" from Country drop-down to point your account to US region. If you have an existing IBM Cloud Account, you may    
-  use that for the workshop.
+    Select "USA" from Country drop-down to point your account to US region
 
 2. Install IBM Cloud Command Line Interface (CLI) - https://console.bluemix.net/docs/home/tools
 
