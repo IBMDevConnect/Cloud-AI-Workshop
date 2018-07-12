@@ -1,4 +1,4 @@
-# IBM Cloud technical workshop
+# IBM Cloud & AI technical workshop
 
 ## Agenda
 
@@ -12,7 +12,7 @@
 
 12:45 - 13:45 : Lunch break
 
-13:45 - 15:15 : Analyze an image and send a status alert (Hands-on Workshop) - Krishna, Raghavendra Deshpande
+13:45 - 15:15 : Analyze an image and send a status alert (Hands-on Workshop) - Krishna Chaitanya
 
 15:15 - 15:30 : Coffee / Tea break
 
@@ -21,11 +21,9 @@
 
 ## Pre-Requisites
 
-1. Sign up for IBM Cloud Account - [https://ibm.biz/BdZfzb](https://ibm.biz/BdZfzb)
+1. Sign up for IBM Cloud Account - [https://ibm.biz/BdZfzb](https://ibm.biz/BdZfzb)  
 
-    Select "USA" from Country drop-down to point your account to US region
-
-2. Install IBM Cloud Command Line Interface (CLI) - https://console.bluemix.net/docs/home/tools
+2. Install IBM Cloud Command Line Interface (CLI) bundle - https://console.bluemix.net/docs/home/tools
 
     (OR)
 
@@ -45,13 +43,18 @@
 
 7. Install CURL - [https://curl.haxx.se/download.html](https://curl.haxx.se/download.html)
 
+
 ## Configure your environment
 
 From your Terminal / Powershell, type the below commands:
 
-1. To point to US region
+1. To point to US-South region
 
   `ibmcloud api https://api.ng.bluemix.net`
+  
+  To point to UK region
+  
+  `ibmcloud api https://api.eu-gb.bluemix.net`
 
 2. Login to IBM Cloud
 
@@ -70,7 +73,8 @@ From your Terminal / Powershell, type the below commands:
   
   `ibmcloud target --cf`
 
-## Hands-on Workshop
+
+## Hands-on Workshop 1
 
 * Follow the steps given in 
 
@@ -78,11 +82,13 @@ https://console.bluemix.net/docs/runtimes/nodejs/getting-started.html#getting-st
 
 * Github repo - https://github.com/IBM-Cloud/get-started-node
 
-## Feedback
 
-Please provide your session feedback here:[https://sessionfeedback.mybluemix.net/](https://sessionfeedback.mybluemix.net/)
+## Hands-on Workshop 2
 
-## Relevant Links
+* Follow the steps given in https://github.com/IBMDevConnect/IotImageAnalysis
+
+
+## Useful Links
 
 * [Call for Code](https://developer.ibm.com/code/2018/05/24/global-importance-answering-call-code/)
 * [IBM Code](https://developer.ibm.com/code/)
